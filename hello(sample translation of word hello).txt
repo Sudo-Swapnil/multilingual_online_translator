@@ -1,0 +1,96 @@
+
+Arabic Translations:
+مرحبا
+
+Arabic Example:
+Please tell her I say hello.
+من فضلك أخبرها أني قلت "مرحباً"
+
+
+German Translations:
+hallo
+
+German Example:
+Well, hello there again, ladies and gentlemen.
+Guten Abend, meine Damen und Herren.
+
+
+Spanish Translations:
+hola
+
+Spanish Example:
+Well hello, Milan and Eve.
+Bueno, hola, Milán y Eva.
+
+
+French Translations:
+bonjour
+
+French Example:
+And... hello... she's hallucinating dwarves.
+Et... allô... elle hallucine de nains.
+
+
+Hebrew Translations:
+שלום
+
+Hebrew Example:
+Come and say hello to him.
+הנה החבר שלך בוא ואמור לו שלום.
+
+
+Japanese Translations:
+こんにちは
+
+Japanese Example:
+The little boy said hello to me.
+小さな男の子が私にこんにちはと言った。
+
+
+Dutch Translations:
+dag
+
+Dutch Example:
+Well, hello, I'm Miranda.
+Wel, hallo, ik ben Miranda.
+
+
+Polish Translations:
+cześć
+
+Polish Example:
+Wejdziemy do środka i powiemy cześć.
+Say hello to the fellas, Lilah.
+
+
+Portuguese Translations:
+olá
+
+Portuguese Example:
+Sawasdee-kap - which means hello, welcome.
+Sawasdee-kap - o que significa: Olá, Bem-vindo.
+
+
+Romanian Translations:
+salut
+
+Romanian Example:
+Loreen, hello to you on this beautiful day.
+Loreen, bună ziua și ție în această minunată zi.
+
+
+Russian Translations:
+привет
+
+Russian Example:
+Well, hello, Mrs. Worley.
+Ну, что ж, здравствуйте, миссис Уорли.
+
+
+Turkish Translations:
+selam
+
+Turkish Example:
+Goodbye slipstream core, hello plan B.
+Hoşçakal ışık hızı alanı çekirdeği, merhaba B planı.
+
